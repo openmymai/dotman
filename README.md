@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
   <a href="https://www.buymeacoffee.com/maicmi" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="45">
@@ -40,7 +39,7 @@ Once the project is published, you can install it with a single command:
 ```bash
 cargo install dotman
 ```
-````
+
 
 ```
 
