@@ -120,7 +120,8 @@ dotman link
 This will read your `dotfiles.toml` and create symlinks for all your managed files. If a file already exists at the target location, `dotman` will skip it. Use `--force` to overwrite.
 
 ````bash
-dotman link --force```
+dotman link --force
+```
 
 ### All Commands
 
@@ -146,7 +147,7 @@ dotfiles_dir = "/home/user/dotfiles"
 [files]
 ".zshrc" = "/home/user/.zshrc"
 ".gitconfig" = "/home/user/.gitconfig"
-````
+```
 
 ---
 
