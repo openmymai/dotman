@@ -40,11 +40,6 @@ Once the project is published, you can install it with a single command:
 cargo install dotman
 ```
 
-
-```
-
-```
-
 ### From Source
 
 1.  **Prerequisites**:
@@ -162,7 +157,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
