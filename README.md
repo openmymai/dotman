@@ -1,19 +1,8 @@
-<div align="center">
-  <a href="https://www.buymeacoffee.com/maicmi" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="45">
-  </a>
-  <br/>
-  <small>If you find dotman useful, consider supporting its development!</small>
-</div>
-
-<br/>
-
 # dotman ⚙️
 
 **dotman** is a simple, fast, and reliable dotfiles manager written in Rust. It helps you keep your configuration files (dotfiles) synchronized across multiple machines by storing them in a single directory, which you can then track with Git.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/your-username/dotman/rust.yml?style=for-the-badge)
 ![Crates.io](https://img.shields.io/crates/v/dotman?style=for-the-badge)
 
 ---
@@ -158,3 +147,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support This Project
+
+If this project helped you, please consider giving it a ⭐️ and supporting my work. It helps me stay motivated and dedicate more time to updates and new features!
+
+**[Sponsor me on GitHub](https://github.com/sponsors/openmymai)**
